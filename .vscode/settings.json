@@ -1,0 +1,7 @@
+{
+  "python.terminal.activateEnvInCurrentTerminal": false,
+  "python.terminal.activateEnvironment": false,
+  "github.copilot.enable": {
+    "*": false
+  }
+}
